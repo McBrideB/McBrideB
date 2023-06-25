@@ -1,4 +1,4 @@
-<pre><h3><strong>Hey, I'm Brendan</strong></h3><strong>I do security things</strong>
+<pre><h3>Hey, I'm Brendan</h3><strong>I do security things</strong>
 Sometimes they don't even break everything</pre><pre>
 <strong>Contact</strong>
 Name: Brendan McBride
